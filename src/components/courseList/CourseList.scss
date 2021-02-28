@@ -1,0 +1,12 @@
+.courselist{
+    display: grid;
+    grid-template-columns: 3fr 1fr 1fr;
+    gap: 10px;
+    margin-bottom: 10px;
+    span{
+        background: white;
+        color: #ee5253;
+        padding: 10px 15px;
+        font-size: 18px;
+    }
+}

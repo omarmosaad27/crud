@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,WAAW,CAAA;EACP,OAAO,EAAE,IAAI;EACb,qBAAqB,EAAE,WAAW;EAClC,GAAG,EAAE,IAAI;EACT,aAAa,EAAE,IAAI;CAOtB;;AAXD,AAKI,WALO,CAKP,IAAI,CAAA;EACA,UAAU,EAAE,KAAK;EACjB,KAAK,EAAE,OAAO;EACd,OAAO,EAAE,SAAS;EAClB,SAAS,EAAE,IAAI;CAClB",
+    "sources": [
+        "CourseList.scss"
+    ],
+    "names": [],
+    "file": "CourseList.css"
+}
